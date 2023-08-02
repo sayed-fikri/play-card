@@ -15,3 +15,6 @@ Each group contain 13 cards which follow requirement:
 
 
 Card need to be shuffle randomly to n number of people.
+
+PHP version 7.4.2
+Laravel 8
